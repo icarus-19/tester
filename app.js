@@ -6,7 +6,7 @@ const SUPABASE_URL =
 "https://ifmrzgdjcbupkubcthkk.supabase.co";
 
 const SUPABASE_ANON_KEY =
-"sb_publishable_GVnQsJLt8IzlyOUAL48Kmg_kdLxPzxH";
+"sb_publishable_lQGIhQ1Ba2wzFufgML192A_NBdqXGec";
 
 const client = supabase.createClient(
     SUPABASE_URL,
